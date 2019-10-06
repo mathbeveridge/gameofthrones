@@ -4,7 +4,6 @@ AERYS,Aerys
 ALLISER_THORNE,Alliser
 AREO,Areo
 ARYA,Arya
-BANKER,Banker
 BARRISTAN,Barristan
 BLACK_HAIRED_PROSTITUTE,Strumpet
 BRAN,Bran
@@ -20,8 +19,9 @@ DAENERYS,Daenerys
 DAVOS,Davos
 DENYS,Denys
 DERRYK,Derryk
-DOLOROUS_EDD,Dolorous Edd
 DORAN,Doran
+DORNISH_RIDER,Dornish Rider
+EDDISON_TOLLETT,Eddison
 ELLARIA,Ellaria
 FALYSE,Falyse
 GILLY,Gilly
@@ -60,7 +60,7 @@ MANCE,Mance
 MARGAERY,Margaery
 MELARA,Melara
 MELISANDRE,Melisandre
-MERYN,Meryn
+MERYN_TRANT,Meryn
 MISSANDEI,Missandei
 MOSSADOR,Mossador
 MOUNTAIN,Mountain
@@ -107,6 +107,7 @@ THIN_MAN,Thin Man
 TOMMEN,Tommen
 TORMUND,Tormund
 TRYSTANE,Trystane
+TYCHO,Tycho
 TYENE,Tyene
 TYRION,Tyrion
 TYWIN,Tywin
@@ -115,5 +116,5 @@ WAIF,Waif
 WALDA,Walda
 WALDER,Walder
 WOLKAN,Wolkan
-YARWYCK,Yarwyck
+OTHELL_YARWYCK,Othell
 YOHN_ROYCE,Yohn

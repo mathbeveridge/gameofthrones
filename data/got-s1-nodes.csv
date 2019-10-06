@@ -38,7 +38,7 @@ ILYN_PAYNE,Ilyn
 IROGENIA,Irogenia
 IRRI,Irri
 JAIME,Jaime
-JANOS_SLYNT,Janos
+JANOS,Janos
 JAREMY_RYKKER,Jaremy
 JEOR,Jeor
 JHIQUI,Jhiqui
@@ -61,8 +61,8 @@ LUKE,Luke
 LYANNA,Lyanna
 LYSA,Lysa
 MACE,Mac
-MAESTER_AEMON,Maester Aemon
-MAESTER_LUWIN,Maester Luwin
+MAESTER_AEMON,Aemon
+MAESTER_LUWIN,Luwin
 MAGO,Mago
 MARILLION,Marillion
 MASHA_HEDDLE,Masha
@@ -93,8 +93,8 @@ RICKARD_STARK,Rickard Stark
 RICKON,Rickon
 ROBB,Robb
 ROBERT,Robert
-ROBIN_ARRYN,Robin
-RODRIK_CASSEL,Rodrik Cassel
+ROBIN,Robin
+RODRIK,Rodrik
 ROOSE_BOLTON,Roose
 ROS,Ros
 ROYCE,Royce
@@ -102,7 +102,6 @@ RYGER_RIVERS,Ryger
 SAM,Sam
 SANSA,Sansa
 SEPTA_MORDANE,Septa Mordane
-SER_VARDIS,Vardis
 SHAE,Shae
 SHAGGA,Shagga
 STABLE_BOY,Stable Boy
